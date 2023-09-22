@@ -1,0 +1,2 @@
+
+export const STORAGE="FRANKZONE_CUSTOMER"

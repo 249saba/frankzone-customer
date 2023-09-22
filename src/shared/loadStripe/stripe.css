@@ -1,0 +1,29 @@
+/* stripe.css */
+.CardElement {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .CardElement--focus {
+    border-color: #007bff;
+  }
+  
+  .CardElement--invalid {
+    border-color: #dc3545;
+  }
+  
+  /* Style placeholder and other inner elements */
+  .CardElement .StripeElement {
+    padding: 10px;
+    border: none;
+    outline: none;
+    background-color: white;
+  }
+  
+  .CardElement ::placeholder {
+    color: #999;
+  }

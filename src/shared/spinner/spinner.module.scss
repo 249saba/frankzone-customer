@@ -1,0 +1,35 @@
+.contianer {
+  width: 100%;
+  height: 100%;
+}
+.spinner {
+  margin: auto;
+  width: 25px;
+  height: 25px;
+  vertical-align: top;
+  border-radius: 50%;
+  background-color: transparent;
+  border: 2px solid var(--black);
+  border-top: 2px solid var(--white);
+  animation-name: spin;
+  animation-timing-function: linear;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+.whiteborder {
+  border: 2px solid var(--white) !important;
+  border-top: 2px solid var(--black) !important;
+}
+.medium {
+  width: 40px !important;
+  height: 40px !important;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

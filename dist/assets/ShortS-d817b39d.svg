@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.676" height="54.676" viewBox="0 0 54.676 54.676">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_140016" data-name="Path 140016" d="M0,0H54.676V54.676H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_23634" data-name="Rectangle 23634" width="35" height="35" transform="translate(-0.104 -0.104)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="ShortS" transform="translate(-47.092 -476)">
+    <g id="video-chat_1_" data-name="video-chat (1)" transform="translate(47.092 476)" clip-path="url(#clip-path)">
+      <path id="Path_140015" data-name="Path 140015" d="M51.292,2.083H29.421c-15.364,0-27.338,12.739-27.338,28.1,0,14.27,12.275,26.572,26.572,26.572,15.5,0,28.1-11.974,28.1-27.338V7.551A5.484,5.484,0,0,0,51.292,2.083Z" transform="translate(-2.083 -2.083)" fill="#323232"/>
+    </g>
+    <g id="Mask_Group_218" data-name="Mask Group 218" transform="translate(57.033 485.941)" clip-path="url(#clip-path-2)">
+      <g id="play-button_1_" data-name="play-button (1)" transform="translate(0.814 0.84)">
+        <path id="Path_140013" data-name="Path 140013" d="M9.149,7.174V21.037l12.984-6.931Z" transform="translate(3.287 2.552)" fill="#fff"/>
+        <path id="Path_140014" data-name="Path 140014" d="M16.991.018A16.966,16.966,0,1,0,33.981,16.984,16.978,16.978,0,0,0,16.991.018ZM12.245,9.745l12.984,6.932L12.245,23.608Z" transform="translate(0 -0.018)" fill="#db2b42"/>
+      </g>
+    </g>
+  </g>
+</svg>
